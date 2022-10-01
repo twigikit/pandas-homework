@@ -8,3 +8,8 @@ week 4 assignnment
 - calculate daily returns and cumulative returns
 - visualisation - plot
 - risk analysis - std dev, sharpe ratio
+- custom portfolio
+  - select 3 stocks (download price using Google Finance)
+  - data cleaning
+  - performance and risk analysis
+  - benchmark performance against the market, algorithmic porfolios and the whales portfolios
